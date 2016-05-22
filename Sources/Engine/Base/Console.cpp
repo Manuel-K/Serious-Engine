@@ -289,6 +289,8 @@ void CPrintF(const char *strFormat, ...)
 
   // print it to the main console
   _pConsole->PutString(strBuffer);
+  // print it to stdout
+  printf(strBuffer);
 }
 
 // Add a string of text to console
