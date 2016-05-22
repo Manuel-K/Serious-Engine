@@ -558,8 +558,8 @@ components:
   1 class   CLASS_PROJECTILE        "Classes\\Projectile.ecl",
   2 class   CLASS_BULLET            "Classes\\Bullet.ecl",
   3 class   CLASS_WEAPONEFFECT      "Classes\\PlayerWeaponsEffects.ecl",
-  4 class   CLASS_PIPEBOMB          "Classes\\Pipebomb.ecl",
-  5 class   CLASS_GHOSTBUSTERRAY    "Classes\\GhostBusterRay.ecl",
+//  4 class   CLASS_PIPEBOMB          "Classes\\Pipebomb.ecl",
+//  5 class   CLASS_GHOSTBUSTERRAY    "Classes\\GhostBusterRay.ecl",
   6 class   CLASS_CANNONBALL        "Classes\\CannonBall.ecl",
   7 class   CLASS_WEAPONITEM        "Classes\\WeaponItem.ecl",
 
